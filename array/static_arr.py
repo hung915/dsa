@@ -38,7 +38,7 @@ def printArr(arr: list, capacity: int) -> None:
         print(arr[i])
 
 
-# leet code problems
+# Leet code problems
 
 # 1. https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 def remove_duplicates(nums: List[int]) -> int:
